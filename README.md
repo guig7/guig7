@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/guilherme-soares-analista" target="_blank">
+  <a href="[www.linkedin.com/in/guilherme-soares-analista](https://www.linkedin.com/in/guilherme-soares-analista/)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="guisoaresg7@gmail.com" target="_blank">
