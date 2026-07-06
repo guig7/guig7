@@ -21,7 +21,7 @@
 
 <h2 align="left">Projeto em destaque</h2>
 <p align="left">
-📊 <a href="LINK_DO_REPO_AQUI">Previsão Copa do Mundo 2026</a> — pipeline PySpark com arquitetura Medallion, stack Hadoop/Hive/Spark, modelo ALS (RMSE ~0.84)
+🚗 <a href="https://github.com/guig7/analise-acidentes-transito">Análise de Acidentes de Trânsito no Brasil</a> — exploração e visualização de dados de acidentes de trânsito, com mapas de calor interativos (Folium) para identificar padrões geográficos e possíveis áreas críticas para políticas de prevenção. Stack: Python, Pandas, Matplotlib/Seaborn, Folium, Jupyter Notebook.
 </p>
 
 <h2 align="left">Tecnologias</h2>
