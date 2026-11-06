@@ -1,1 +1,90 @@
-<h1 align="left">Olá 👋, eu sou o Guilherme</h1> <h3 align="left">Futuro AI Engineer · Dados + IA aplicada · Brasil 🇧🇷</h3> <div align="left"> <a href="https://www.linkedin.com/in/guilherme-soares-analista/" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /> </a> <a href="mailto:guisoaresg7@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /> </a> </div> <p align="left"> Sou estudante do 3º ano do Ensino Médio, com formação técnica de 1.000h em Ciência de Dados (EFG/CETT-UFG). Meu objetivo é me tornar <b>AI Engineer</b>: construir soluções de IA que resolvam problemas reais de negócio, apoiadas em uma base sólida de engenharia de dados. Estou me preparando para ingressar na graduação em Computação na UFG. </p> <h2 align="left">Foco atual</h2> <p align="left"> 🔎 Pipelines de dados com arquitetura Medallion (Bronze/Silver/Gold)<br> 🐘 Big Data com Hadoop, Hive e Spark/PySpark rodando em Docker<br> 🧠 Machine Learning aplicado: sistemas de recomendação (ALS no Spark MLlib) e análise preditiva<br> 🤖 LLMs: execução local de modelos open-weight (LM Studio) e exploração de integração via API<br> 🎯 Buscando estágio/júnior em Dados e IA aplicada </p> <h2 align="left">Projetos em destaque</h2> <p align="left"> 🚗 <a href="https://github.com/guig7/analise-acidentes-transito">Análise de Acidentes de Trânsito no Brasil</a> — exploração e visualização de dados com mapas de calor interativos (Folium) para identificar padrões geográficos e possíveis áreas críticas para políticas de prevenção. Stack: Python, Pandas, Matplotlib/Seaborn, Folium, Jupyter Notebook. </p> <p align="left"> 📊 <a href="https://github.com/guig7/Dashboard_acidentes">Dashboard de Acidentes</a> — dashboard de visualização de dados sobre acidentes. Stack: JavaScript. </p> <p align="left"> 🌦️ <a href="https://github.com/guig7/analise_clima">Análise de Clima</a> — análise de dados climáticos. Stack: Python. </p> <p align="left"> 🚧 <b>Em breve:</b> pipeline Big Data com arquitetura Medallion e sistema de recomendação (ALS), e o projeto de previsões da Copa do Mundo 2026. </p> <h2 align="left">Tecnologias</h2> <p align="left"><b>Linguagens e análise</b></p> <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" /> <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" /> <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql" /> <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter" /> </div> <p align="left"><b>Big Data e infraestrutura</b></p> <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40" alt="spark" /> <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="40" alt="hadoop" /> <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" /> <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" /> <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" /> </div> <p align="left"><b>Web (projetos freelance)</b></p> <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" /> <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" /> <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" /> <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" /> </div> <h2 align="left">Roadmap</h2> <p align="left"> 📐 Base de matemática e estatística (probabilidade, álgebra linear)<br> 🤖 Machine Learning clássico com scikit-learn<br> 💬 IA generativa: RAG (Retrieval-Augmented Generation), embeddings e avaliação de modelos (evals)<br> 🚀 Fundamentos de MLOps: versionamento, deploy e monitoramento de modelos </p> <h2 align="left">Vamos conversar?</h2> <p align="left"> Aberto a estágio, projetos e trocas sobre dados e IA. Fale comigo pelo LinkedIn ou por e-mail (ícones acima). </p> <!-- AJUSTAR: descrição de analise_clima e Dashboard_acidentes conforme o conteúdo real. Quando publicar os projetos "Em breve", troque a linha 🚧 por links reais. -->
+<h1 align="left">Olá 👋, eu sou o Guilherme</h1>
+
+<h3 align="left">Futuro AI Engineer · Dados + IA aplicada · Brasil 🇧🇷</h3>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/guilherme-soares-analista/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:guisoaresg7@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+<p align="left">
+Sou estudante do 3º ano do Ensino Médio, com formação técnica de 1.000h em Ciência de Dados (EFG/CETT-UFG). Meu objetivo é me tornar <b>AI Engineer</b>: construir soluções de IA que resolvam problemas reais de negócio, apoiadas em uma base sólida de engenharia de dados. Estou me preparando para ingressar na graduação em Computação na UFG.
+</p>
+
+<h2 align="left">Foco atual</h2>
+<p align="left">
+🔎 Pipelines de dados com arquitetura Medallion (Bronze/Silver/Gold)<br>
+🐘 Big Data com Hadoop, Hive e Spark/PySpark rodando em Docker<br>
+🧠 Machine Learning aplicado: sistemas de recomendação (ALS no Spark MLlib) e análise preditiva<br>
+🤖 LLMs: execução local de modelos open-weight (LM Studio) e exploração de integração via API<br>
+🎯 Buscando estágio/júnior em Dados e IA aplicada
+</p>
+
+<h2 align="left">Projetos em destaque</h2>
+<p align="left">
+🚗 <a href="https://github.com/guig7/analise-acidentes-transito">Análise de Acidentes de Trânsito no Brasil</a> — exploração e visualização de dados com mapas de calor interativos (Folium) para identificar padrões geográficos e possíveis áreas críticas para políticas de prevenção. Stack: Python, Pandas, Matplotlib/Seaborn, Folium, Jupyter Notebook.
+</p>
+<p align="left">
+📊 <a href="https://github.com/guig7/Dashboard_acidentes">Dashboard de Acidentes</a> — dashboard de visualização de dados sobre acidentes. Stack: JavaScript.
+</p>
+<p align="left">
+🌦️ <a href="https://github.com/guig7/analise_clima">Análise de Clima</a> — análise de dados climáticos. Stack: Python.
+</p>
+<p align="left">
+🚧 <b>Em breve:</b> pipeline Big Data com arquitetura Medallion e sistema de recomendação (ALS), e o projeto de previsões da Copa do Mundo 2026.
+</p>
+
+<h2 align="left">Tecnologias</h2>
+<p align="left"><b>Linguagens e análise</b></p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter" />
+</div>
+
+<p align="left"><b>Big Data e infraestrutura</b></p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40" alt="spark" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="40" alt="hadoop" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+</div>
+
+<p align="left"><b>Web (projetos freelance)</b></p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+</div>
+
+<h2 align="left">Roadmap</h2>
+<p align="left">
+📐 Base de matemática e estatística (probabilidade, álgebra linear)<br>
+🤖 Machine Learning clássico com scikit-learn<br>
+💬 IA generativa: RAG (Retrieval-Augmented Generation), embeddings e avaliação de modelos (evals)<br>
+🚀 Fundamentos de MLOps: versionamento, deploy e monitoramento de modelos
+</p>
+
+<h2 align="left">Vamos conversar?</h2>
+<p align="left">
+Aberto a estágio, projetos e trocas sobre dados e IA. Fale comigo pelo LinkedIn ou por e-mail (ícones acima).
+</p>
+
+<!-- AJUSTAR: descrição de analise_clima e Dashboard_acidentes conforme o conteúdo real. Quando publicar os projetos "Em breve", troque a linha 🚧 por links reais. -->
