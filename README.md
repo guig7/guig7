@@ -17,9 +17,9 @@ Sou estudante do 3º ano do Ensino Médio, com formação técnica de 1.000h em 
 
 <h2 align="left">Foco atual</h2>
 <p align="left">
-🔎 Pipelines de dados com arquitetura Medallion (Bronze/Silver/Gold)<br>
-🐘 Big Data com Hadoop, Hive e Spark/PySpark rodando em Docker<br>
-🧠 Machine Learning aplicado: sistemas de recomendação (ALS no Spark MLlib) e análise preditiva<br>
+
+
+🧠 Machine Learning aplicado: sistemas de recomendação<br>
 🤖 LLMs: execução local de modelos open-weight (LM Studio) e exploração de integração via API<br>
 🎯 Buscando estágio/júnior em Dados e IA aplicada
 </p>
@@ -35,7 +35,7 @@ Sou estudante do 3º ano do Ensino Médio, com formação técnica de 1.000h em 
 🌦️ <a href="https://github.com/guig7/analise_clima">Análise de Clima</a> — análise de dados climáticos. Stack: Python.
 </p>
 <p align="left">
-🚧 <b>Em breve:</b> pipeline Big Data com arquitetura Medallion e sistema de recomendação (ALS), e o projeto de previsões da Copa do Mundo 2026.
+🚧 <b>Em breve:</b> Site de recomendação de escalação do cartola.
 </p>
 
 <h2 align="left">Tecnologias</h2>
